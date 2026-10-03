@@ -1,7 +1,6 @@
 # 🍽️ Food Funday - Restaurant Website
-
-[![Live Demo](https://omniaislamm.github.io/Food-Funday-Restaurant-Website/)
-[![GitHub Repository](https://github.com/omniaislamm/Food-Funday-Restaurant-Website)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_View-brightgreen?style=for-the-badge&logo=googlechrome)](https://omniaislamm.github.io/Food-Funday-Restaurant-Website/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/omniaislamm/Food-Funday-Restaurant-Website)
 
 **Food Funday** is a sleek, modern, and fully responsive web template designed for restaurants, cafes, and food services. It features an interactive layout that allows users to explore menus, learn about the culinary team, check pricing, and reserve tables online.
 
