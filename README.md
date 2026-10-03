@@ -31,8 +31,4 @@ A modern web browser (Chrome, Firefox, Edge, Safari).
 ### Installation
 git clone https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git
 
-## 🔒 License & Copyright
 
-© 2026 Omnia Islam. All Rights Reserved.
-
-This project and its source code are strictly for educational and portfolio presentation purposes only. No part of this project may be copied, reproduced, distributed, or used in any commercial or non-commercial application without explicit written permission from the author.
