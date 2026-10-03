@@ -30,5 +30,6 @@ A modern web browser (Chrome, Firefox, Edge, Safari).
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git](https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git)
+```bash
+git clone [https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git](https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git)
+```
