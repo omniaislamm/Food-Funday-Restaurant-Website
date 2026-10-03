@@ -29,7 +29,4 @@ To get a local copy up and running, follow these simple steps:
 A modern web browser (Chrome, Firefox, Edge, Safari).
 
 ### Installation
-1. Clone the repository:
-```bash
-git clone [https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git](https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git)
-```
+git clone https://github.com/omniaislamm/Food-Funday-Restaurant-Website.git
