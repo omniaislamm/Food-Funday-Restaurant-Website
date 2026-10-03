@@ -36,6 +36,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=github)
+
+> 🚧 **ملاحظة:** هذا المشروع ما زال قيد التطوير والعمل جارٍ على إضافة الميزات وتنسيق الأكواد.
 
 ## 🚀 Getting Started
 
